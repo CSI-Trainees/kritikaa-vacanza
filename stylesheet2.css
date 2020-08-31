@@ -24,8 +24,6 @@ html,body,div {
 .nav-logo .csi:hover {
     color:darkblue;
 } 
-
-
 .header-content {
 	justify-content: center;
 	display: flex;
@@ -61,7 +59,7 @@ html,body,div {
 	position: relative;
 	margin-top: 120px;
 	width:200px;
-	transition: all 0.5s;
+	transition: all .5s;
 }
 .logo:hover {
 	transform:scale(1.2) rotate(720deg);
